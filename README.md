@@ -5,7 +5,7 @@
 
 ## About
 - This project is about controlling smart home with the help of hand gesture technology. 
-- People with disabilty or speech disabilities face problem in controlling their smart homes. 
+- People with disability or speech disabilities face problem in controlling their smart homes. 
 - This project remove the barrier and give an edge to people with diasability to control their smart home.
 
 ## Description
