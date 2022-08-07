@@ -22,5 +22,5 @@
 - In place of Arduino we can use Wi-fi modules to connect Smart Appliances with our project to create a wireless smart home automation system.
 - This system is easy to use and can be used even with a simple webcam.
 
-##Project Updates
+## Project Updates
 - We are working to create a more recognizzable image detection which help to detect hand gesture with much accuracy.
