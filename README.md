@@ -1,4 +1,4 @@
-# Smart Home Automation Using Hand Gesture Technology
+# Home Automation Using hand Gesture Techniques.
 
 ## Image
 <img src="https://user-images.githubusercontent.com/57358424/183283397-78bbc4a1-b29a-4f64-a3cc-8af3b91f8c11.png" alt="Alt text" title="Optional title">
